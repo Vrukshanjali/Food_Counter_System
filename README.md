@@ -1,6 +1,5 @@
 # Food_Counter_System
 #include<stdio.h> 
-//void exit(int return_code);
 int main() 
 { 
       int i, total = 0, x, limit, counter = 0, t_quantum,n,a,m; 
